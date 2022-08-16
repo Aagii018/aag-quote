@@ -1,0 +1,34 @@
+{
+	"name": "aag-quote",
+	"version": "1.0.0",
+	"description": "quote",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Aagii018/aag-quote.git"
+	},
+	"keywords": [
+		"aagii",
+		"library"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Aagii018/aag-quote/issues"
+	},
+	"homepage": "https://github.com/Aagii018/aag-quote#readme",
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	},
+	"files": [
+		"dist/**/*"
+	],
+	"dependencies": {
+		"aag-quote": "^1.0.0"
+	}
+}
